@@ -11,6 +11,7 @@ const GlobalStyles = createGlobalStyle`
   button {background:none;border:0;cursor:pointer;}
   a {text-decoration:none}
   table {border-collapse:collapse;border-spacing:0}
+  ul {list-style: none}
 
   * { font-family: 'Spoqa Han Sans Neo', 'sans-serif'; }
 `;
